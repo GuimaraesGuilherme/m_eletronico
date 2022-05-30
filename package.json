@@ -1,0 +1,15 @@
+{
+  "name": "mercado_eletronico_alleasy",
+  "version": "1.0.0",
+  "description": "Teste Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Guilherme Guimaraes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "faker": "^5.5.3"
+  }
+}
